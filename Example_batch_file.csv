@@ -1,0 +1,20 @@
+sample_id,condition,treatment,timepoint,fastq_file,sample_info
+PMG-0,t0,t0,0d,NGS_RBM39.fastq,PMG3008 - Library pDNA
+PMG-4,1uM_indisulam_14d,indisulam,14d,A05_S67_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep1_d14
+PMG-5,1uM_indisulam_14d,indisulam,14d,A06_S68_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep2_d14
+PMG-6,1uM_indisulam_14d,indisulam,14d,A07_S69_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep3_d14
+PMG-7,1uM_E7820_14d,E7820,14d,A08_S70_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep1_d14
+PMG-8,1uM_E7820_14d,E7820,14d,A09_S71_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep2_d14
+PMG-9,1uM_E7820_14d,E7820,14d,A10_S72_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep3_d14
+PMG-1,DMSO_14d,DMSO,14d,A02_S64_L001_R1_001.fastq,PMG3116 - DMSO_rep1_d14
+PMG-2,DMSO_14d,DMSO,14d,A03_S65_L001_R1_001.fastq,PMG3116 - DMSO_rep2_d14
+PMG-3,DMSO_14d,DMSO,14d,A04_S66_L001_R1_001.fastq,PMG3116 - DMSO_rep3_d14
+PMG-13,1uM_indisulam_29d,indisulam,29d,B03_S76_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep1_d29
+PMG-14,1uM_indisulam_29d,indisulam,29d,B04_S77_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep1_d29
+PMG-15,1uM_indisulam_29d,indisulam,29d,B05_S78_L001_R1_001.fastq,PMG3116 - 1uM_indisulam_rep1_d29
+PMG-16,1uM_E7820_29d,E7820,29d,B06_S79_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep1_d29
+PMG-17,1uM_E7820_29d,E7820,29d,B07_S80_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep2_d29
+PMG-18,1uM_E7820_29d,E7820,29d,B08_S81_L001_R1_001.fastq,PMG3116 - 1uM_E7820_rep3_d29
+PMG-10,DMSO_29d,DMSO,29d,A11_S73_L001_R1_001.fastq,PMG3116 - DMSO_rep1_d29
+PMG-11,DMSO_29d,DMSO,29d,A12_S74_L001_R1_001.fastq,PMG3116 - DMSO_rep2_d29
+PMG-12,DMSO_29d,DMSO,29d,B02_S75_L001_R1_001.fastq,PMG3116 - DMSO_rep3_d29
