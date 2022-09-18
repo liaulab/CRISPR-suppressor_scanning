@@ -1,5 +1,5 @@
 # CRISPR-suppressor_scanning
-Repository containing code for analysis of CRISPR-suppressor scanning experiments. See Ngan\*, Lue\*, Lee, & Liau (2022). Correspondence to Brian B. Liau (<liau@chemistry.harvard.edu>).
+Repository containing code for analysis of CRISPR-suppressor scanning experiments. Correspondence to Brian B. Liau (<liau@chemistry.harvard.edu>).
 
 ## Repository Contents
 - *CRISPR-suppressor_scanning_functions.py* contains functions for analysis of sgRNA plasmid library and CRISPR-suppressor scanning sequencing data. See function docstrings for details regarding usage.
